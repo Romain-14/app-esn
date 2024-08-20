@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "author": "John Doe",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nunc.",
+        "picture": "old-man.jpg",
+        "stars": 5
+    },
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nunc.",
+        "picture": "punk-man.jpg",
+        "stars": 2
+    },
+    {
+        "id": 3,
+        "author": "Jim Doe",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nunc.",
+        "picture": "old-man.jpg",
+        "stars": 3
+    },
+    {
+        "id": 4,
+        "author": "Jill Doe",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nunc.",
+        "picture": "punk-man.jpg",
+        "stars": 4
+    },
+    {
+        "id": 5,
+        "author": "Jack Doe",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor, nunc nec ultricies ultricies, nunc nunc.",
+        "picture": "punk-man.jpg",
+        "stars": 1
+    }
+]

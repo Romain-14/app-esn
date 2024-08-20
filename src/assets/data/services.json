@@ -1,0 +1,12 @@
+[
+	{ "id": 1, "name": "Refactoring", "price": 100, "description": "Refactor your code", "image": "services/code.jpg" },
+    { "id": 2, "name": "Debugging", "price": 200, "description": "Debug your code", "image": "services/code.jpg" },
+    { "id": 3, "name": "Testing", "price": 300, "description": "Test your code", "image": "services/code.jpg" },
+    { "id": 4, "name": "Training", "price": 400, "description": "Train your team", "image": "no_photo.webp" },
+    { "id": 5, "name": "Consulting", "price": 500, "description": "Consult your project", "image": "no_photo.webp" },
+    { "id": 6, "name": "Development", "price": 600, "description": "Develop your project", "image": "services/code.jpg" },
+    { "id": 7, "name": "Design", "price": 700, "description": "Design your project", "image": "no_photo.webp" },
+    { "id": 8, "name": "Architecture", "price": 800, "description": "Architect your project", "image": "no_photo.webp" },
+    { "id": 9, "name": "Deployment", "price": 900, "description": "Deploy your project", "image": "no_photo.webp" },
+    { "id": 10, "name": "Maintenance", "price": 1000, "description": "Maintain your project", "image": "no_photo.webp" }
+]

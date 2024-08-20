@@ -1,0 +1,45 @@
+[
+	{
+		"id": 1,
+		"name": "Jill",
+		"age": 35,
+		"role": "Director",
+		"picture": "chief-1.webp"
+	},
+	{
+		"id": 2,
+		"name": "Jack",
+		"age": 40,
+		"role": "Manager",
+		"picture": "chief-2.webp"
+	},
+	{
+		"id": 3,
+		"name": "Jim",
+		"age": 45,
+		"role": "Marketing",
+		"picture": "jim.webp"
+	},
+	{
+		"id": 4,
+		"name": "Jane",
+		"age": 30,
+		"role": "Lead Dev'",
+		"picture": "jane.webp"
+	},
+	{
+		"id": 5,
+		"name": "John",
+		"age": 25,
+		"role": "designer",
+		"picture": "john.webp"
+	},
+
+	{
+		"id": 6,
+		"name": "Jenny",
+		"age": 35,
+		"role": "Developer",
+		"picture": "jenny.webp"
+	}
+]

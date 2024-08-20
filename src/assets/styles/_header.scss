@@ -1,0 +1,39 @@
+header {
+	background-color: royalblue;
+	color: #fff;
+	padding: 1rem;
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	a {
+		position: relative;
+		padding: 0.5rem 1rem;
+		color: #fff;
+		text-transform: uppercase;
+		font-weight: bold;
+		&::before {
+			content: "";
+			position: absolute;
+			width: calc(100% - (1rem * 2));
+			height: 2px;
+			background-color: transparent; // Initial state
+			bottom: 0;
+			left: 1rem;
+			transition: all 0.5s; // Transition property here
+		}
+	}
+
+	nav {
+		display: flex;
+		gap: 1rem;
+	}
+}
+
+.active,
+nav a:hover {
+	&::before {
+		background-color: #fff; // Change on hover or active
+	}
+}
